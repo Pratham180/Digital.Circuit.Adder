@@ -1,0 +1,1 @@
+open main.py to run the program
